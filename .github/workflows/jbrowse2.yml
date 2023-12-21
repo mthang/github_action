@@ -31,3 +31,5 @@ jobs:
           echo Hello, world!
           sleep 15
           ls ./jbrowse2
+          cd ./jbrowse2
+          npx serve .
